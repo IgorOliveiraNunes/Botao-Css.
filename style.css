@@ -1,0 +1,23 @@
+body{
+    background-color:aquamarine ;
+    margin:0 ;
+}
+.botao{
+    margin-top: 400px;
+    margin-left:40% ;
+    text-align: center;
+    display: block;
+    width:350px ;
+    height: 100px ;
+    color:white ;
+    font-size:40px ;
+    text-decoration: none;
+    padding-top: 25px;
+    background-color: blue ;
+    border-radius: 20px ;
+    box-sizing:border-box ;
+    box-shadow: 3px 3px 10px 0 black;
+}
+body a:hover{
+    background-color:rgba(0, 0, 255, 0.74) ;
+}
